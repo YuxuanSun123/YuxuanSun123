@@ -1,84 +1,60 @@
-# 👋 Hi, I'm Yuxuan Sun
+# 👋 Hey, I'm Yuxuan Sun
 
 🎓 MSc Human-Computer Interaction @ Newcastle University
-🤖 AI Product Engineer | Multi-Agent Systems | LLM Applications
-🚀 Building real-world AI systems, not just demos
+🤖 AI Product Engineer · Multi-Agent Systems · LLM
+
+---
+
+## 👨‍💻 About Me
+
+I build AI systems that focus on:
+
+* 🤖 Multi-agent collaboration
+* ⚙️ Real-world workflows
+* 🌍 Human-centered AI interaction
+
+Previously explored:
+
+* AI-driven simulation (Carbon Clash)
+* Multi-device orchestration systems
+* AI content generation pipelines
 
 ---
 
 ## 🚀 What I'm Doing
 
-* Building **multi-agent AI systems**
-* Designing **real-world LLM products**
-* Exploring **AI × HCI interaction**
-* Turning ideas into **deployable systems**
+* Building **multi-agent AI platforms**
+* Designing **LLM-based products**
+* Exploring **AI × HCI × Simulation**
 
 ---
 
-## 🔥 Featured Projects
+## 🔗 Projects
 
-### 🧠 OPC Smart Workspace
+* 🧠 OPC Smart Workspace
+  → Multi-agent AI system
+  https://github.com/YuxuanSun123/opc-smart-workspace
 
-A multi-agent AI workspace integrating multiple LLM services with task orchestration and real-time collaboration.
+* ⚙️ OpenClaw Orchestrator
+  → Multi-device collaboration
+  https://github.com/YuxuanSun123/openclaw-orchestrator
 
-**Tech:** `React` · `Node.js` · `WebSocket` · `LLM API`
-👉 https://github.com/YuxuanSun123
+* 🎬 AI Manga Workshop
+  → AI content pipeline
+  https://github.com/YuxuanSun123/ai-manga-workshop
 
----
-
-### ⚙️ OpenClaw Orchestrator
-
-Cloud-led orchestration platform for lightweight multi-device collaboration and automation.
-
-**Tech:** `Node.js` · `P2P` · `WebSocket` · `Edge Computing`
-👉 https://github.com/YuxuanSun123
-
----
-
-### 🎬 AI Manga Workshop
-
-End-to-end AI content creation pipeline for script generation, video production, and evaluation.
-
-**Tech:** `React` · `Node.js` · `LLM` · `Cloud`
-👉 https://github.com/YuxuanSun123
+* 🏙️ Carbon Clash
+  → LLM simulation game
+  https://github.com/YuxuanSun123/carbon-clash
 
 ---
 
-### 🏙️ Carbon Clash
+## 🧰 Tech
 
-LLM-driven civic simulation game exploring value conflicts in environmental policy scenarios.
-
-**Tech:** `LLM` · `Game Design` · `HCI` · `Simulation`
-👉 https://github.com/YuxuanSun123
-
----
-
-## 🧰 Tech Stack
-
-### AI / LLM
-
-`PyTorch` · `Transformers` · `LangChain` · `LlamaIndex`
-
-### Frontend
-
-`React` · `TypeScript` · `Tailwind`
-
-### Backend
-
-`Node.js` · `Fastify` · `Python`
-
----
-
-## 🧭 Product Thinking
-
-* Focus on **real user scenarios**, not toy demos
-* Design **AI systems that collaborate**, not just respond
-* Balance **engineering feasibility × user value**
-* Build **end-to-end pipelines**, not isolated features
+`LLM` · `Multi-Agent` · `React` · `Node.js` · `Python`
 
 ---
 
 ## 📫 Contact
 
-* Email: [your@email.com](mailto:your@email.com)
-* GitHub: https://github.com/YuxuanSun123
+📧 [your@email.com](mailto:your@email.com)
