@@ -6,63 +6,79 @@
 
 ---
 
+## 🚀 What I'm Doing
+
+* Building **multi-agent AI systems**
+* Designing **real-world LLM products**
+* Exploring **AI × HCI interaction**
+* Turning ideas into **deployable systems**
+
+---
+
 ## 🔥 Featured Projects
 
 ### 🧠 OPC Smart Workspace
 
-Multi-agent AI platform integrating multiple LLM services with task orchestration.
+A multi-agent AI workspace integrating multiple LLM services with task orchestration and real-time collaboration.
 
-**Tech:** React · Node.js · WebSocket · LLM API
-👉 [View Project](https://github.com/YuxuanSun123)
+**Tech:** `React` · `Node.js` · `WebSocket` · `LLM API`
+👉 https://github.com/YuxuanSun123
 
 ---
 
 ### ⚙️ OpenClaw Orchestrator
 
-Lightweight multi-device collaboration system with cloud orchestration.
+Cloud-led orchestration platform for lightweight multi-device collaboration and automation.
 
-**Tech:** Node.js · P2P · WebSocket
-👉 [View Project](https://github.com/YuxuanSun123)
+**Tech:** `Node.js` · `P2P` · `WebSocket` · `Edge Computing`
+👉 https://github.com/YuxuanSun123
 
 ---
 
 ### 🎬 AI Manga Workshop
 
-AI-powered content pipeline for script generation and video production.
+End-to-end AI content creation pipeline for script generation, video production, and evaluation.
 
-**Tech:** React · Node.js · LLM
-👉 [View Project](https://github.com/YuxuanSun123)
+**Tech:** `React` · `Node.js` · `LLM` · `Cloud`
+👉 https://github.com/YuxuanSun123
 
 ---
 
 ### 🏙️ Carbon Clash
 
-LLM-driven civic simulation game exploring value conflicts.
+LLM-driven civic simulation game exploring value conflicts in environmental policy scenarios.
 
-**Tech:** LLM · Game Design · HCI
-👉 [View Project](https://github.com/YuxuanSun123)
+**Tech:** `LLM` · `Game Design` · `HCI` · `Simulation`
+👉 https://github.com/YuxuanSun123
 
 ---
 
 ## 🧰 Tech Stack
 
-**AI / LLM:**
-PyTorch · Transformers · LangChain · LlamaIndex
+### AI / LLM
 
-**Frontend:**
-React · TypeScript · Tailwind
+`PyTorch` · `Transformers` · `LangChain` · `LlamaIndex`
 
-**Backend:**
-Node.js · Fastify · Python
+### Frontend
+
+`React` · `TypeScript` · `Tailwind`
+
+### Backend
+
+`Node.js` · `Fastify` · `Python`
 
 ---
 
-## 📊 GitHub Stats
+## 🧭 Product Thinking
 
-![stats](https://github-readme-stats.vercel.app/api?username=YuxuanSun123\&show_icons=true)
+* Focus on **real user scenarios**, not toy demos
+* Design **AI systems that collaborate**, not just respond
+* Balance **engineering feasibility × user value**
+* Build **end-to-end pipelines**, not isolated features
 
 ---
 
 ## 📫 Contact
 
 * Email: [your@email.com](mailto:your@email.com)
+* GitHub: https://github.com/YuxuanSun123
