@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Yuxuan Sun
-
+<img src="Image" alt="Image" width="100%" />
 🎓 MSc Human-Computer Interaction @ Newcastle University
 🤖 AI Product Engineer · Multi-Agent Systems · LLM
 
