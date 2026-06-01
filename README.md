@@ -29,11 +29,13 @@ A Windows voice input app for coding dictation, supporting local SenseVoice and 
 
 **Why it matters:** Coding with AI increasingly feels conversational. Voice input can reduce interaction cost when writing prompts, explaining changes, or managing long agent sessions.
 
-### [Vibe99](https://github.com/YuxuanSun123/Vibe99)
+### [AIBILI](https://github.com/YuxuanSun123/AIBILI)
 
-A desktop terminal workspace for agentic coding, focused on making multiple AI coding agents easier to monitor and manage.
+A local desktop workflow for judging whether Bilibili learning videos are worth watching, collecting, and saving into Obsidian.
 
-**Why it matters:** Agentic coding needs better workspace design, not just stronger models. The interface should help users keep attention on the active task while still seeing what other agents are doing.
+It combines a browser extension, local Flask backend, native desktop interface, subtitle capture, AI-based learning value analysis, and Obsidian integration.
+
+**Why it matters:** Learning from video is noisy. This project explores how AI can help filter, evaluate, and preserve high-value learning material in a local-first knowledge workflow.
 
 ### [AI-COMIC](https://github.com/YuxuanSun123/AI-COMIC)
 
