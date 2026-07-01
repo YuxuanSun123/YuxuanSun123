@@ -16,20 +16,20 @@ My current work sits at the intersection of **AI agents**, **human-computer inte
 
 ## Selected Projects
 
-### [cli-model-switcher](https://github.com/YuxuanSun123/cli-model-switcher)
+### [cli-model-switcher](https://github.com/UtenKekkoDev/cli-model-switcher)
 
 A CLI AI model profile switcher for Codex, Claude, OpenCode, Gemini, and local models.  
 It includes model recipes, shell helpers, API presets, shared memory, secret auditing, and portable state management.
 
 **Why it matters:** AI builders often work across several model providers and agent tools. This project explores how to make that switching reliable, repeatable, and less painful.
 
-### [vibe-coding-voice](https://github.com/YuxuanSun123/vibe-coding-voice)
+### [vibe-coding-voice](https://github.com/UtenKekkoDev/vibe-coding-voice)
 
 A Windows voice input app for coding dictation, supporting local SenseVoice and online Qwen-ASR Realtime.
 
 **Why it matters:** Coding with AI increasingly feels conversational. Voice input can reduce interaction cost when writing prompts, explaining changes, or managing long agent sessions.
 
-### [AIBILI](https://github.com/YuxuanSun123/AIBILI)
+### [AIBILI](https://github.com/UtenKekkoDev/AIBILI)
 
 A local desktop workflow for judging whether Bilibili learning videos are worth watching, collecting, and saving into Obsidian.
 
@@ -37,19 +37,19 @@ It combines a browser extension, local Flask backend, native desktop interface, 
 
 **Why it matters:** Learning from video is noisy. This project explores how AI can help filter, evaluate, and preserve high-value learning material in a local-first knowledge workflow.
 
-### [AI-COMIC](https://github.com/YuxuanSun123/AI-COMIC)
+### [AI-COMIC](https://github.com/UtenKekkoDev/AI-COMIC)
 
 An AI-assisted comic and video creation platform built around script generation, storyboard generation, character consistency, and creative evaluation.
 
 **Why it matters:** AI content tools need structured workflows. This project explores how script, storyboard, visual assets, and evaluation can become one production loop.
 
-### [Bilibili-Obsidian-Clipper](https://github.com/YuxuanSun123/Bilibili-Obsidian-Clipper)
+### [Bilibili-Obsidian-Clipper](https://github.com/UtenKekkoDev/Bilibili-Obsidian-Clipper)
 
 A browser tool for extracting subtitles from Bilibili videos, previewing them, exporting Markdown, downloading subtitle files, and writing notes into Obsidian through Local REST API.
 
 **Why it matters:** Knowledge capture should be fast and local-first. This project connects video learning with personal knowledge management.
 
-### [carbon-clash-ai-citizens](https://github.com/YuxuanSun123/carbon-clash-ai-citizens)
+### [carbon-clash-ai-citizens](https://github.com/UtenKekkoDev/carbon-clash-ai-citizens)
 
 A turn-based civic strategy simulation game using LLM-driven citizens and value conflicts.
 
@@ -80,5 +80,5 @@ I like working on the layer between model capability and real user behavior: whe
 ## Contact
 
 - Email: [albertexert@gmail.com](mailto:albertexert@gmail.com)
-- GitHub: [YuxuanSun123](https://github.com/YuxuanSun123)
+- GitHub: [UtenKekkoDev](https://github.com/UtenKekkoDev)
 - Portfolio: [yuxuansun.netlify.app](https://yuxuansun.netlify.app)
